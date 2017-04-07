@@ -68,10 +68,9 @@ var examples = {
     fontCSS: 'https://fonts.googleapis.com/css?family=Average'
   },
   'red-chamber': {
-    list: '6 紅樓夢\n3 賈寶玉\n3 林黛玉\n3 薛寶釵\n3 王熙鳳\n3 李紈\n3 賈元春\n3 賈迎春\n' +
-          '3 賈探春\n3 賈惜春\n3 秦可卿\n3 賈巧姐\n3 史湘雲\n3 妙玉\n2 賈政\n2 賈赦\n' +
-          '2 賈璉\n2 賈珍\n2 賈環\n2 賈母\n2 王夫人\n2 薛姨媽\n2 尤氏\n2 平兒\n2 鴛鴦\n' +
-          '2 襲人\n2 晴雯\n2 香菱\n2 紫鵑\n2 麝月\n2 小紅\n2 金釧\n2 甄士隱\n2 賈雨村',
+    list: '29 網路\n21 我們\n20 系統\n13 使用\n13 資料\n13 為\n11 研究\n11 電視\n' +
+          '11 遷移\n10 論文\n10 虛擬\n10 可以\n9 一個\n9 安全\n9 軟體\n8 白\n' +
+          '8 如何\n8 雲端\n8 不同\n8 會',
     option: '{\n' +
             '  gridSize: 8,\n' +
             '  weightFactor: 16,\n' +
@@ -82,7 +81,7 @@ var examples = {
             '}'
   },
   'quick-fox': {
-    list: '2 The\n2 quick\n3 brown\n5 fox\n3 jumps\n3 over\n3.5 the\n3 lazy\n6 dog\n',
+    list: '13 virtual\n10 real\n10 evaluation\n9 prototypes\n8 machining\n6 ar\n6 based\n3 lazy\n5 product\n',
     option: '{\n' +
             '  gridSize: 16,\n' +
             '  weightFactor: 16,\n' +
