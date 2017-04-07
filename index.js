@@ -34,13 +34,10 @@ var examples = {
             '}'
   },
   'web-tech': {
-    list: '26 Web Technologies\n20 HTML\n20 <canvas>\n' +
-          '15 CSS\n15 JavaScript\n12 Document Object Model\n12 <audio>\n12 <video>\n12 Web Workers\n12 XMLHttpRequest\n12 SVG\n' +
-          '9 JSON.parse()\n9 Geolocation\n9 data attribute\n9 transform\n9 transition\n9 animation\n' +
-          '7 setTimeout\n7 @font-face\n7 Typed Arrays\n7 FileReader API\n7 FormData\n7 IndexedDB\n' +
-          '7 getUserMedia()\n7 postMassage()\n7 CORS\n6 strict mode\n6 calc()\n6 supports()\n' +
-          '6 media queries\n6 full screen\n6 notification\n6 orientation\n6 requestAnimationFrame\n' +
-          '5 border-radius\n5 box-sizing\n5 rgba()\n5 text-shadow\n5 box-shadow\n5 flexbox\n5 viewpoint',
+    list: '14 nm\n11 state\n10 retinal\n' +
+          '10 br\n10 nanoparticles\n10 transient\n8 upon\n8 photocycle\n8 evolution\n8 proton\n8 method\n' +
+          '8 gold\n8 temperature\n7 bacteriorhodopsin\n7 kinetics\n7 fluorescence\n7 thermal\n' +
+          '6 infrared\n6 different\n6 h2o\n',
     option: '{\n' +
             '  gridSize: 18,\n' +
             '  weightFactor: 3,\n' +
@@ -55,11 +52,10 @@ var examples = {
     fontCSS: 'https://fonts.googleapis.com/css?family=Finger+Paint'
   },
   'les-miz': {
-    list: '30 Les Misérables\n20 Victor Hugo\n15 Jean Valjean\n15 Javert\n15 Fantine\n' +
-          '15 Cosette\n12 Éponine\n12 Marius\n12 Enjolras\n10 Thénardiers\n10 Gavroche\n' +
-          '10 Bishop Myriel\n10 Patron-Minette\n10 God\n8 ABC Café\n8 Paris\n8 Digne\n' +
-          '8 Elephant of the Bastille\n5 silverware\n5 Bagne of Toulon\n5 loaf of bread\n' +
-          '5 Rue Plumet\n5 revolution\n5 barricade\n4 sewers\n4 Fex urbis lex orbis',
+    list: '30 激發\n30 反應\n28 視紫質\n28 迴圈\n28 粒子\n' +
+          '27 細菌\n26 為\n24 質子\n22 態\n22 吾人\n21 動力學\n' +
+          '21 金奈米\n19 瞬態\n18 視黃醛\n17 溫度\n16 進行\n16 以及\n' +
+          '16 時間\n15 能量\n15 M\n',
     option: '{\n' +
           '  gridSize: 18,\n' +
           '  weightFactor: 3,\n' +
