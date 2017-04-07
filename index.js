@@ -81,7 +81,7 @@ var examples = {
             '}'
   },
   'quick-fox': {
-    list: '13 virtual\n10 real\n10 evaluation\n9 prototypes\n8 machining\n6 ar\n6 based\n3 lazy\n5 product\n',
+    list: '6 ar\n6 based\n5 user\n5 product\n5 design\n5 path\n4 technologies\n4 development\n4 data\n',
     option: '{\n' +
             '  gridSize: 16,\n' +
             '  weightFactor: 16,\n' +
