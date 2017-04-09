@@ -53,12 +53,12 @@ var examples = {
   },
   'les-miz': {
     list: '30 激發\n30 反應\n28 視紫質\n28 迴圈\n28 粒子\n' +
-          '27 細菌\n26 為\n24 質子\n22 態\n22 吾人\n21 動力學\n' +
+          '27 細菌\n24 質子\n22 態\n22 吾人\n21 動力學\n' +
           '21 金奈米\n19 瞬態\n18 視黃醛\n17 溫度\n16 進行\n16 以及\n' +
-          '16 時間\n15 能量\n15 M\n',
+          '16 時間\n15 能量\n15 M\n15 實驗\n14 幫浦\n14 利用\n14 吸收\n14 波長',
     option: '{\n' +
           '  gridSize: 18,\n' +
-          '  weightFactor: 3,\n' +
+          '  weightFactor: 5,\n' +
           '  fontFamily: \'Average, Times, serif\',\n' +
           '  color: function() {\n' +
           '    return ([\'#d0d0d0\', \'#e11\', \'#44f\'])[Math.floor(Math.random() * 3)]\n' +
